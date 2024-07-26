@@ -42,8 +42,8 @@ const styles = {
     position: 'absolute',
     bottom: '2.3%', 
     right: '36%',  
-    width: '220px',  
-    height: '220px',
+    width: '170px',  
+    height: '170px',
     cursor: 'pointer'
   }
 };
