@@ -7,6 +7,7 @@ const App = () => {
   const [slide, setSlide] = useState(1);
 
   const navigate = (slideNumber) => {
+    console.log(`Navigating to slide ${slideNumber}`);
     setSlide(slideNumber);
   };
 
